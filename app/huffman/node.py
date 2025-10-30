@@ -10,7 +10,7 @@ class Node:
         self.right = None
 
     def __str__(self):
-        return self.frequency
+        return str(self.frequency)
 
     def __lt__(self, other):
         self.frequency < other.frequency
