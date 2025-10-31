@@ -1,4 +1,4 @@
-# RAU_File_Compression_Tool
+# rau-file-compression-tool
 Creating a File Compression Tool using different Algorithms, as part of University Course Project (DSA).
 
 
